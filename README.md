@@ -1,6 +1,6 @@
 ### Olá eu sou Thiago Ferreira Rovere 👋
 
-- 🌱 Atualmente estou apreendendo HTML5, CSS, JAVASCRIPT, C SHARP. estou cursando Front-end no curso do Programador BR. 
+- 🌱 Atualmente estou apreendendo HTML5, CSS, JAVASCRIPT, C SHARP. estou aprendendo Front-end no curso do Programador BR. 
 - 📫 Magia3dfloripa@gmail.com
 
 
