@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou apreendendo HTML5, CSS, JAVASCRIPT, C#. 
 - 🌱 Estou aprendendo Front-end no curso do Programador BR. 
-- 🌱 Estou cursando a faculdade de Jogos Digitais na Uniasselvi.
+- 🌱 Estou cursando a faculdade de Jogos Digitais na Uniasselvi com professor Juliano Bonifacio
 - 📫 Magia3dfloripa@gmail.com
 
 
