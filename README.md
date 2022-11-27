@@ -4,6 +4,7 @@
 - 🌱 Estou aprendendo Front-end no curso do Programador BR. 
 - 🌱 Estou cursando a faculdade de Jogos Digitais na Uniasselvi.
 - 📫 Magia3dfloripa@gmail.com
+-    www.thiagofrovere.com.br
 
 
 <div align="center">
