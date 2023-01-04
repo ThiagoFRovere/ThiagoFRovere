@@ -17,7 +17,8 @@
   <div style="display: inline_block"><br> 
   <img align="center" alt="Tico-HTML5" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
   <img align="center" alt="Tico-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">  
-  <img align="center" alt="Tico-javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">    
+  <img align="center" alt="Tico-javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
+  <img align="Center" alt="Tico-reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/facebook/react-native@version/file"
     
 </div>
   
