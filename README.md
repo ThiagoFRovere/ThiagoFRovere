@@ -1,10 +1,10 @@
 ### Olá eu sou Thiago Ferreira Rovere 👋
 
-- 🌱 Atualmente estou apreendendo HTML5, CSS, JAVASCRIPT. 
-- 🌱 Estou aprendendo Front-end e Back-end. 
-- 🌱 www.thiagofrovere.com.br
-- 📫 contato@thiagofrovere.com.br
--    
+- 🌱 CONHECIMENTOS INTERMEDIARIOS-AVANCADO HTML5, CSS, JAVASCRIPT. 
+- 🌱 CONHECIMENTOS BASICOS EM REACT.
+- 🌱 MEU PORTIFOLIO: www.thiagofrovere.com.br
+- 📫 CONTATO VIA E-MAIL: contato@thiagofrovere.com.br
+   
 
 
 <div align="center">
@@ -15,11 +15,11 @@
 </div>
   
   <div style="display: inline_block"><br> 
-  <img align="center" alt="TFR-HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-  <img align="center" alt="TFR-CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
-  <img align="center" alt="TFR-javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-   plain.svg">   
-  <img align="Center" alt="TFR-reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="Center" alt="TFR-C#" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
+  <img align="center" alt="javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
+  <img align="Center" alt="reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="Center" alt="C#" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     
    
     
