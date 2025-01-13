@@ -3,7 +3,7 @@
 - 🌱 CONHECIMENTOS INTERMEDIARIOS-AVANCADO HTML5, CSS, JAVASCRIPT. 
 - 🌱 CONHECIMENTOS BASICOS EM REACT.
 - 🌱 MEU PORTIFOLIO: www.thiagofrovere.com.br
-- 📫 CONTATO VIA E-MAIL: contato@thiagofrovere.com.br
+- 📫 CONTATO VIA E-MAIL: magia3dfloripa@gmail.com
    
 
 
