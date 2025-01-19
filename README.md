@@ -20,7 +20,7 @@
   <img align="center" alt="javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
   <img align="Center" alt="reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="Center" alt="C#" height="60" widht="70" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-  <img align="Center" alt="C#" height="60" widht="70" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png">
+  <img align="Center" alt="C#" height="60" widht="70" src="[https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png">
   
     
    
