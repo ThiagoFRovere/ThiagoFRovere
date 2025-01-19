@@ -19,7 +19,7 @@
   <img align="center" alt="CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
   <img align="center" alt="javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
   <img align="Center" alt="reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="Center" alt="C#" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="Center" alt="C#" height="60" widht="70" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
     
    
     
