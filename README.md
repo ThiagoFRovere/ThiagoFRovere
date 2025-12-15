@@ -1,6 +1,6 @@
 ### Olá eu sou Thiago Ferreira Rovere 👋
 
-- 🌱 CONHECIMENTOS INTERMEDIARIOS-AVANCADO HTML5, CSS, JAVASCRIPT. 
+- 🌱 CONHECIMENTOS INTERMEDIARIOS-AVANCADO HTML5, CSS, JAVASCRIPT, PHYTON. 
 - 🌱 CONHECIMENTOS BASICOS EM REACT.
 - 🌱 MEU PORTIFOLIO: www.thiagofrovere.com.br
 - 📫 CONTATO VIA E-MAIL: magia3dfloripa@gmail.com
