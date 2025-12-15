@@ -18,10 +18,10 @@
   <img align="Center" alt="reactnative" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="Center" alt="jquery" height="60" widht="70" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
   <img align="center" alt="" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> 
-   <img align="center" alt="swwetalert2" height="65" width="70" src="https://www.svgrepo.com/show/452091/python.svg"> 
-   <img align="center" alt="swwetalert2" height="65" width="70" src="https://codefling.com/uploads/monthly_2022_01/bat.png.a5bc116612f6984a736f3a5e6547a2e7.png"> 
-   <img align="center" alt="swwetalert2" height="65" width="70" src="https://cdn.filedesc.com/images/file/development/157/ps1-200.webp">
-</div>">
+  <img align="center" alt="swwetalert2" height="65" width="70" src="https://www.svgrepo.com/show/452091/python.svg"> 
+  <img align="center" alt="swwetalert2" height="65" width="70" src="https://codefling.com/uploads/monthly_2022_01/bat.png.a5bc116612f6984a736f3a5e6547a2e7.png"> 
+  <img align="center" alt="swwetalert2" height="65" width="70" src="https://cdn.filedesc.com/images/file/development/157/ps1-200.webp">
+</div>
   
   ##
   
