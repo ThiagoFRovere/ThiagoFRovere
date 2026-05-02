@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFRovere&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br> 
+<div style="display: "><br> 
   <img align="center" alt="javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
   <img align="Center" alt="jquery" height="60" widht="70" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
   <img align="center" alt="" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> 
@@ -24,7 +24,7 @@
   
   ##
   
-<div style="display: flex; flex-direction: row"><br> 
+<div style=""><br> 
   <img align="center" alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
   <img align="center" alt="tailwind" height="65" width="70" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tailwindCss.svg"> 
@@ -35,7 +35,7 @@
 
    ##
   
-<div style="display: inline_block"><br> 
+<div style=""><br> 
    <img align="center" alt="vmware" height="65" width="150"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/960px-Vmware.svg.png">
   <img align="center" alt="proxmox" height="65" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg"> 
   
