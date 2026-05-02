@@ -12,7 +12,7 @@ Desenvolvedor com foco em desenvolvimento web, automação e infraestrutura. Est
 ## Tecnologias
 
 <p align="center">
-  <div>
+  <div flex-direction:"flex">
     <img alt="React" height="60" width="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
     <img alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="Node.js" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
