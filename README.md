@@ -11,8 +11,8 @@ Desenvolvedor com foco em desenvolvimento web, automação e infraestrutura. Est
 
 ## Tecnologias
 
-<p align="center">
-  <div class="icons" flex-direction:"flex">
+
+  <div display: "flex" align-items: "center">
     <img alt="React" height="60" width="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
     <img alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="Node.js" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
@@ -20,7 +20,7 @@ Desenvolvedor com foco em desenvolvimento web, automação e infraestrutura. Est
     <img alt="Batch" height="65" width="70" src="https://codefling.com/uploads/monthly_2022_01/bat.png.a5bc116612f6984a736f3a5e6547a2e7.png" />
     <img alt="PowerShell" height="65" width="70" src="https://www.rw-designer.com/icon-image/21743-256x256x32.png" />
   </div>
-</p>
+
 
 <p align="center">
   <img alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
