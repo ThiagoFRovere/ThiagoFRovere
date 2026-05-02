@@ -1,54 +1,52 @@
-### Olá eu sou Thiago Ferreira Rovere 👋
+# Olá, eu sou Thiago Ferreira Rovere 👋
 
-- 🌱 CONHECIMENTOS INTERMEDIARIOS-AVANCADO HTML5, CSS, JAVASCRIPT, PHYTON, BATCH E POWERSHELL. 
-- 🌱 CONHECIMENTOS BASICOS EM REACT.
-- 🌱 MEU PORTIFOLIO: www.thiagofrovere.com.br
-- 📫 CONTATO VIA E-MAIL: magia3dfloripa@gmail.com
-   
+Desenvolvedor com foco em desenvolvimento web, automação e infraestrutura. Este repositório reúne meu portfólio pessoal e alguns projetos que demonstram minha experiência prática.
 
+## Sobre mim
+
+- Conhecimentos intermediário a avançado em `HTML5`, `CSS`, `JavaScript`, `Python`, `Batch` e `PowerShell`
+- Conhecimentos básicos em `React`
+- Portfólio: [www.thiagofrovere.com.br](https://www.thiagofrovere.com.br)
+- E-mail: [magia3dfloripa@gmail.com](mailto:magia3dfloripa@gmail.com)
+
+## Tecnologias
+
+<div align="center"><br>
+<img align="center" alt="react" height="60" width="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+  <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Node.js" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img align="center" alt="Python" height="65" width="70" src="https://www.svgrepo.com/show/452091/python.svg" />
+  <img align="center" alt="Batch" height="65" width="70" src="https://codefling.com/uploads/monthly_2022_01/bat.png.a5bc116612f6984a736f3a5e6547a2e7.png" />
+  <img align="center" alt="PowerShell" height="65" width="70" src="https://www.rw-designer.com/icon-image/21743-256x256x32.png" />
+</div>
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/ThiagoFRovere">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFRovere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFRovere&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: "><br> 
-  <img align="center" alt="javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
-  <img align="Center" alt="jquery" height="60" widht="70" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
-  <img align="center" alt="" height="65" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> 
-  <img align="center" alt="swwetalert2" height="65" width="70" src="https://www.svgrepo.com/show/452091/python.svg"> 
-  <img align="center" alt="swwetalert2" height="65" width="70" src="https://codefling.com/uploads/monthly_2022_01/bat.png.a5bc116612f6984a736f3a5e6547a2e7.png"> 
-  <img align="center" alt="swwetalert2" height="65" width="70" src="https://cdn.filedesc.com/images/file/development/157/ps1-200.webp">
-</div>
-  
-  ##
-  
-<div style=""><br> 
-  <img align="center" alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-  <img align="center" alt="CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-  <img align="center" alt="tailwind" height="65" width="70" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tailwindCss.svg"> 
-  <img align="center" alt="bootstrap" height="65" width="70" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> 
-  <img align="center" alt="swwetalert2" height="65" width="70" src="https://raw.githubusercontent.com/dochne/wappalyzer/main/src/images/icons/SweetAlert2.svg"> 
-  
+
+  <img align="center" alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="jQuery" height="60" width="70" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" />
+  <img align="center" alt="Bootstrap" height="65" width="70" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+  <img align="center" alt="SweetAlert2" height="65" width="70" src="https://raw.githubusercontent.com/dochne/wappalyzer/main/src/images/icons/SweetAlert2.svg" />
 </div>
 
-   ##
-  
-<div style=""><br> 
-   <img align="center" alt="vmware" height="65" width="150"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/960px-Vmware.svg.png">
-  <img align="center" alt="proxmox" height="65" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg"> 
-  
-  <img align="center" alt="apache" height="65" width="200" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"> 
-  <img align="center" alt="firebase" height="65" width="150" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
-  
-</div>  
+<br>
 
-  ##
-  
-<div> 
-  <a href = "mailto:magia3dfloripa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-ferreira-rôvere-783734223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img align="center" alt="VMware" height="65" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/960px-Vmware.svg.png" />
+  <img align="center" alt="Proxmox" height="65" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" />
+  <img align="center" alt="Apache" height="65" width="200" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" />
+  <img align="center" alt="Firebase" height="65" width="150" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 </div>
- 
 
+## Projetos do portfólio
+
+Este repositório também inclui projetos e demonstrações publicados no meu portfólio, com foco em soluções reais para web, automação e sistemas.
+
+## Contato
+
+<div>
+  <a href="mailto:magia3dfloripa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/thiago-ferreira-r%C3%B4vere-783734223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+</div>
