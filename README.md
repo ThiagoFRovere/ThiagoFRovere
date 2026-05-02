@@ -24,7 +24,7 @@
   
   ##
   
-<div style="display: flex"><br> 
+<div style="display: flex; flex-direction: row"><br> 
   <img align="center" alt="HTML5" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
   <img align="center" alt="tailwind" height="65" width="70" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tailwindCss.svg"> 
