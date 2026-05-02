@@ -9,7 +9,7 @@ Desenvolvedor com foco em desenvolvimento web, automação e infraestrutura. Est
 - Portfólio: [www.thiagofrovere.com.br](https://www.thiagofrovere.com.br)
 - E-mail: [magia3dfloripa@gmail.com](mailto:magia3dfloripa@gmail.com)
 
-## Tecnologias
+<!--## Tecnologias-->
 
 
  <!-- <div display: "flex" align-items: "center">
